@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/xvguua6uc7o54p3s?svg=true)](https://ci.appveyor.com/project/Shustovskikh/installation-description)
